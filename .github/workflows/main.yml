@@ -41,7 +41,7 @@ jobs:
         
         npm run deploy
       env:
-        user_name: 'github-actions[bot]'
-        user_email: 'github-actions[bot]@users.noreply.github.com'
+        user_name: 'TylerRust-1'
+        user_email: 'tylerrust10@gmail.com'
         github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
-        repository: ${{ github.repository }}
+        repository: "3D-Portfolio"
