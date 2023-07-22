@@ -38,7 +38,7 @@ const Hero = () => {
           >
             I research Computer Vision 
             <br className='sm:block hidden' />
-            3D Reconstruction and Object Recognition.
+            Testing
           </p>
         </div>
       </div>
