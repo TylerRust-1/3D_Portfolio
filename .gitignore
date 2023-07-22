@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 venv
+tyler-rust-logo-zip-file.zip
 
 # Editor directories and files
 .vscode/*
